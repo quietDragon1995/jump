@@ -1,7 +1,7 @@
 # jump
 微信跳一跳游戏自动程序
 
-支持安卓1080p程序手机，需要pc端sdk和adb的支持
+支持安卓1080p屏幕手机，需要pc端sdk和adb的支持
 
 需要numpy，scipyL，uiautomator2第三方库的支持
 
